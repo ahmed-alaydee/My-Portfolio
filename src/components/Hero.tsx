@@ -128,7 +128,7 @@ export default function Hero() {
 
         <h1 className="text-6xl md:text-8xl font-bold mb-6 animate-slide-up">
           <span className="bg-gradient-to-r from-slate-900 via-blue-900 to-purple-900 dark:from-white dark:via-cyan-200 dark:to-purple-200 bg-clip-text text-transparent">
-            Ahmed Alayde
+            Ahmed 
           </span>
         </h1>
 
